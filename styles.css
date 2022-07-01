@@ -67,7 +67,7 @@ i{
     margin-left: 1rem;
 }
 .image .name p{
-    font-size:1.05rem
+    font-size:1rem
 }
 .image .name p:nth-of-type(2){
     color: var(--light-gray);
@@ -79,14 +79,14 @@ i{
     margin-bottom: 1.2rem;
     letter-spacing: 0.02rem;
     line-height: 1.6rem;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
 }
 .description p{
     color: var(--light-gray);
     margin-bottom: 1rem;
     letter-spacing: 0.02rem;
     line-height: 1.12rem;
-    font-size: 1rem;
+    font-size: 0.9rem;
 }
 
 /* 2nd CARD ADJUST */
